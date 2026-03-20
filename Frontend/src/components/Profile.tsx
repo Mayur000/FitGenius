@@ -102,8 +102,8 @@ export const Profile: React.FC = () => {
             </div>
           </div>
           <div>
-            <h1 className="text-2xl font-bold text-gray-800">Alex Johnson</h1>
-            <p className="text-sm text-gray-500">Free Tier Member • Joined Mar 2024</p>
+            <h1 className="text-2xl font-bold text-gray-800">Mayur Narkhede</h1>
+            <p className="text-sm text-gray-500">Free Tier Member • Joined Mar 2026</p>
           </div>
         </div>
         <button className="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
